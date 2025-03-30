@@ -13,7 +13,7 @@ const siteProps = {
   title: "Backend Developer",
   email: "henriquebh.dev@gmail.com",
   gitHub: "henriqueAF90",
-  instagram: "henrique90",
+  instagram: "henriqueAF90",
   linkedIn: "henrique-andrade-4148b0109"
   
 };
